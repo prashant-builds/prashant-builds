@@ -1,10 +1,17 @@
 # 💫 About Me
 
-I work on web development projects with a strong focus on clean structure, usability, and automation-driven workflows.  
-I enjoy building practical solutions that improve efficiency rather than adding unnecessary complexity.
+🔭 I’m currently working on Web development projects with a focus on clean structure, usability, and basic automation.
 
-I’m open to collaborating on web-based projects, small tools, and automation-focused ideas where learning and contribution go hand in hand.  
-Currently exploring modern web practices, AI-assisted tools, and scalable automation workflows.
+👯 I’m looking to collaborate on Web-based projects, small tools, and automation-focused ideas where learning and contribution go together.
+
+🤝 I’m looking for help with Improving application logic, understanding scalable workflows, and automation best practices.
+
+🌱 I’m currently learning Modern web development approaches, AI-assisted tools, and automation workflows.
+
+💬 Ask me about Web development fundamentals, project setup, and practical use of AI tools.
+
+⚡ Fun fact I enjoy simplifying processes more than adding features.
+
 
 ---
 
