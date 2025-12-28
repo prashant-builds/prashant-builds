@@ -1,9 +1,16 @@
 # 👋 Hi, I’m Prashant
 
-I work at the intersection of **web development**, **automation**, and **AI-assisted workflows** — focusing on clarity, structure, and practical outcomes.
+🔭 I’m currently working on Web development projects with a focus on clean structure, usability, and basic automation.
 
-I’m interested in building systems that are simple to use, easy to maintain, and purposeful.  
-Rather than chasing complexity, I focus on solving real problems with clean and scalable approaches.
+👯 I’m looking to collaborate on Web-based projects, small tools, and automation-focused ideas where learning and contribution go together.
+
+🤝 I’m looking for help with Improving application logic, understanding scalable workflows, and automation best practices.
+
+🌱 I’m currently learning Modern web development approaches, AI-assisted tools, and automation workflows.
+
+💬 Ask me about Web development fundamentals, project setup, and practical use of AI tools.
+
+⚡ Fun fact I enjoy simplifying processes more than adding features.
 
 ---
 
