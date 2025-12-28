@@ -1,55 +1,61 @@
 # 👋 Hi, I’m Prashant
 
-🔭 I’m currently working on Web development projects with a focus on clean structure, usability, and basic automation.
+I work across **web development**, **automation**, and **AI-assisted workflows**, with a strong emphasis on **clarity, structure, and long-term maintainability**.
 
-👯 I’m looking to collaborate on Web-based projects, small tools, and automation-focused ideas where learning and contribution go together.
-
-🤝 I’m looking for help with Improving application logic, understanding scalable workflows, and automation best practices.
-
-🌱 I’m currently learning Modern web development approaches, AI-assisted tools, and automation workflows.
-
-💬 Ask me about Web development fundamentals, project setup, and practical use of AI tools.
-
-⚡ Fun fact I enjoy simplifying processes more than adding features.
+I enjoy building systems that are easy to understand, simple to evolve, and purposeful in what they solve.  
+Instead of chasing complexity, I focus on creating solutions that remain clean, scalable, and reliable over time.
 
 ---
 
-## 🔍 What I’m Focused On
-- Designing and developing well-structured web applications  
-- Exploring automation and AI-assisted development workflows  
-- Improving logic, maintainability, and system clarity  
+## 🧭 Current Focus
+- Designing web applications with clear structure and predictable behavior  
+- Exploring automation-first approaches to reduce manual effort  
+- Improving application logic, maintainability, and system flow  
 
 ---
 
-## 🤝 Open To
-- Collaborating on web-based tools and automation-driven projects  
-- Learning-oriented open-source contributions  
-- Practical ideas where experimentation and improvement matter  
+## 🤝 Collaboration & Contributions
+I’m open to working on:
+- Web-based tools and internal utilities  
+- Automation-driven ideas and productivity systems  
+- Learning-oriented open-source projects where growth matters  
+
+I value collaboration that prioritizes **problem-solving, learning, and refinement** over rushing features.
 
 ---
 
-## 🌱 Currently Learning
-- Modern web architecture & best practices  
-- Automation workflows and AI-assisted tools  
-- Scalable thinking for long-term projects  
+## 🌱 Learning & Exploration
+- Modern web architecture and development best practices  
+- AI-assisted tools that enhance development workflows  
+- Automation strategies for building efficient, repeatable systems  
+
+My approach is to understand concepts deeply before relying on tools.
 
 ---
 
-## 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-digital)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/prashantdesignlab)
+## 💬 Ask Me About
+- Web development fundamentals and project structuring  
+- Designing cleaner workflows and reducing repetitive work  
+- Practical, realistic use of AI tools in development  
+
+I enjoy thoughtful discussions around improving how systems are built.
+
+---
+
+## ⚡ Fun Fact
+I prefer **simplifying systems** and improving workflows rather than adding more features.
 
 ---
 
 ## 🧰 Tech & Tools
 
-### Web
+### 🌐 Web
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend, Cloud & Automation
+### ⚙️ Backend, Cloud & Automation
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -57,7 +63,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-### Workflow & Tools
+### 🔁 Workflow & Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -77,6 +83,6 @@
 
 ---
 
-> *“I value clarity, consistency, and systems that work — not noise.”*
+> *Clarity over cleverness. Systems over shortcuts.*
 
 [![](https://visitcount.itsvg.in/api?id=prashant-builds&icon=3&color=0)](https://visitcount.itsvg.in)
